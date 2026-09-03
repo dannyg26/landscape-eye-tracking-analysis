@@ -18,6 +18,55 @@ The analysis maps gaze samples to 22 landscape Areas of Interest (AOIs), summari
 - The two clusters were weakly separated (best silhouette score: 0.192), so they should be interpreted as tendencies rather than fixed viewer types.
 - Attention was strongly nature-oriented overall.
 
+## Results
+
+### Overall visual attention
+
+Tall trees were the strongest visual anchor, receiving approximately 14.49 million ms of dwell time and 33.47% of all attention assigned to an AOI. Buildings and herbaceous plants ranked second and third.
+
+| Rank | AOI category | Total dwell time (ms) | Gaze samples | Share of AOI dwell time |
+|---:|---|---:|---:|---:|
+| 1 | Tall trees | 14,493,637.7 | 822,594 | 33.47% |
+| 2 | Buildings | 5,290,279.5 | 301,420 | 12.22% |
+| 3 | Herbaceous plants | 4,415,903.6 | 231,872 | 10.20% |
+| 4 | Shrubs | 2,586,532.2 | 140,553 | 5.97% |
+| 5 | Roads | 2,240,755.5 | 115,464 | 5.17% |
+| 6 | Water bodies | 2,072,592.5 | 112,891 | 4.79% |
+
+The complete ranking of all 22 AOIs is available in [`data/aggregate/attention_by_category.csv`](data/aggregate/attention_by_category.csv).
+
+### Participant effect versus site effect
+
+ANOVA showed that the image or site being viewed had a larger effect than the participant for 21 of the 22 individual AOI categories. Sky was the only exception.
+
+| Example AOI | Participant F | Site F | Dominant factor |
+|---|---:|---:|---|
+| Economic crops | 0.172 | 346.912 | Site |
+| Aquatic plants | 0.625 | 139.244 | Site |
+| Buildings | 1.691 | 120.745 | Site |
+| Tall trees | 8.330 | 40.067 | Site |
+| Sky | 22.221 | 7.420 | Participant |
+
+The six broader AOI groups produced the same general result: site dominated Vegetation, Built, Water, Natural, and Amenity, while participant differences dominated Sky. Full results are in [`results/anova`](results/anova).
+
+### PCA and viewer clusters
+
+PC1 explained 38.9% of participant variation and PC2 explained 14.2%, for 53.1% combined. K-Means testing from two through eight clusters selected two clusters with a silhouette score of 0.192. This low score indicates broad tendencies with considerable overlap, not sharply separated viewer types.
+
+| Measure | Cluster 1 | Cluster 2 |
+|---|---:|---:|
+| Participants | 26 | 22 |
+| Tall trees | 28.57% | 39.13% |
+| Sky | 1.87% | 6.72% |
+| Buildings | 10.15% | 14.49% |
+| Herbaceous plants | 12.43% | 7.65% |
+| Roads | 6.76% | 3.63% |
+| Water bodies | 5.81% | 3.45% |
+| Average dwell time | 19,032.5 ms | 18,549.3 ms |
+| Average attention entropy | 2.081 | 2.007 |
+
+Cluster 1 distributed relatively more attention across ground-level features such as herbaceous plants, roads, shrubs, and water. Cluster 2 concentrated more strongly on tall trees, sky, buildings, and mountains. Hierarchical clustering recovered a broadly similar division, supporting the existence of these two loose viewing styles.
+
 ## Repository contents
 
 ```text
