@@ -67,6 +67,19 @@ PC1 explained 38.9% of participant variation and PC2 explained 14.2%, for 53.1% 
 
 Cluster 1 distributed relatively more attention across ground-level features such as herbaceous plants, roads, shrubs, and water. Cluster 2 concentrated more strongly on tall trees, sky, buildings, and mountains. Hierarchical clustering recovered a broadly similar division, supporting the existence of these two loose viewing styles.
 
+## Design implications and final takeaway
+
+The clearest practical implication is that tall trees and other prominent vertical greenery can serve as reliable visual anchors in urban landscapes. Tall trees captured approximately one-third of all AOI dwell time and attracted substantial attention across participants, while the site itself explained visual attention better than individual differences for nearly every landscape category.
+
+For landscape architects and urban designers, the findings suggest:
+
+- incorporating tall, visible trees into plazas, streetscapes, campuses, parks, and other public spaces where attracting attention to greenery is a design goal;
+- preserving clear sightlines to tree canopies and vertical vegetation rather than obscuring them behind built elements;
+- combining vertical greenery with ground-level planting, water, and other natural features to support different viewing tendencies; and
+- treating the composition and placement of landscape elements as especially important, because the scene influenced attention more strongly than the identity of the viewer.
+
+The final recommendation is not simply to add more trees everywhere, but to intentionally use tall trees and layered vegetation as focal elements within urban design. Because this study measured visual attention rather than preference, comfort, health, or long-term behavior, further research would be needed to determine whether greater attention also produces a more positive experience.
+
 ## Repository contents
 
 ```text
