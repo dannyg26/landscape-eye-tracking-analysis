@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated figures and local logs
+*.log
+ml_*.png
+
+# Raw and participant-level research data
+Data/
+data/raw/
+data/private/
+student_information*.csv
+student_information*.xlsx
+participants_names_id*.xlsx
+attention_by_recording*.csv
+perception_features_composite.csv
+perception_raw_by_participant.csv
+perception_grouped_by_participant.csv
+ml_cluster_assignments.csv
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx

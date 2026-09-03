@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Where Do People Look? Eye-Tracking Analysis of Visual Attention in Landscape Photography"
+type: software
+authors:
+  - family-names: Galvis
+    given-names: Danny
+version: 1.0.0
+date-released: 2026-08-14

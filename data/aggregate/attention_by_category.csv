@@ -1,0 +1,23 @@
+category,total_dwell_ms,total_gaze_count,dwell_pct
+Tall trees,14493637.7,822594,33.47
+Buildings,5290279.5,301420,12.22
+Herbaceous plants,4415903.6,231872,10.2
+Shrubs,2586532.2,140553,5.97
+Roads,2240755.5,115464,5.17
+Water bodies,2072592.5,112891,4.79
+Paved surfaces / plazas,1819611.8,91479,4.2
+Sky,1750198.9,97754,4.04
+Flowers / ornamental grass,1529699.6,83693,3.53
+Aquatic plants,1498742.5,82448,3.46
+Economic crops,1077193.7,58943,2.49
+Other elements,972007.6,53483,2.24
+Mountains,775732.9,44264,1.79
+Landscape seating / recreational facilities,679537.9,38379,1.57
+Sculptures / landmarks,515348.6,29512,1.19
+Parking lots / vehicles,311116.3,17291,0.72
+Pavilions / corridors,304100.3,17316,0.7
+Artificial water features,290919.1,15960,0.67
+Flower beds / trellises,277896.9,15753,0.64
+Landscape walls,191305.1,10837,0.44
+Landscape stones,127963.0,7072,0.3
+Landscape bridges,83236.5,4812,0.19

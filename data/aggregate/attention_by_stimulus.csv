@@ -1,0 +1,517 @@
+stimulus,category,total_dwell_ms,total_gaze_count,n_recordings
+1 (1.2.2.2),Tall trees,392991.4,22310,48
+1 (1.2.2.2),Aquatic plants,139074.0,7506,48
+1 (1.2.2.2),Shrubs,87608.6,4852,48
+1 (1.2.2.2),Herbaceous plants,83814.2,4375,48
+1 (1.2.2.2),Roads,67558.7,3618,47
+1 (1.2.2.2),Landscape stones,59224.8,3292,48
+1 (1.2.2.2),Mountains,29146.2,1663,46
+1 (1.2.2.2),Other elements,20746.0,1177,45
+1 (1.2.2.2),Sky,8158.0,453,22
+1 (1.2.2.2),Water bodies,4859.0,259,22
+1 (1.2.2.2),Flowers / ornamental grass,133.2,8,4
+1 (2.2),Tall trees,411348.1,23324,48
+1 (2.2),Aquatic plants,148036.5,7751,48
+1 (2.2),Shrubs,102402.8,5439,46
+1 (2.2),Herbaceous plants,69648.4,3949,48
+1 (2.2),Roads,68361.3,3512,47
+1 (2.2),Other elements,37409.4,2126,44
+1 (2.2),Sky,32421.1,1832,40
+1 (2.2),Mountains,23680.4,1347,34
+1 (2.2),Landscape stones,10168.3,588,39
+1 (2.2),Buildings,1581.3999999999999,95,14
+10_1,Tall trees,271820.4,15461,48
+10_1,Buildings,214932.7,12118,48
+10_1,Paved surfaces / plazas,187854.5,9137,48
+10_1,Landscape seating / recreational facilities,126752.2,7040,48
+10_1,Herbaceous plants,40259.5,2090,47
+10_1,Shrubs,26693.8,1463,46
+10_1,Artificial water features,12276.1,663,38
+10_1,Sky,4516.8,253,17
+10_1,Other elements,4095.5,222,34
+10_1,Flowers / ornamental grass,1299.6,56,12
+10_2,Buildings,355081.5,19863,48
+10_2,Sculptures / landmarks,141646.0,8175,47
+10_2,Tall trees,129616.1,7268,48
+10_2,Paved surfaces / plazas,128011.8,5988,48
+10_2,Shrubs,53593.0,2857,48
+10_2,Sky,29687.7,1620,26
+10_2,Landscape seating / recreational facilities,25055.4,1435,42
+10_2,Herbaceous plants,8584.7,456,34
+10_2,Other elements,5074.4,282,26
+10_2,Artificial water features,216.6,13,4
+11 (1.2),Tall trees,416707.3,23554,48
+11 (1.2),Roads,167607.0,8340,48
+11 (1.2),Landscape walls,106802.5,6075,48
+11 (1.2),Shrubs,58711.6,3198,48
+11 (1.2),Parking lots / vehicles,58485.3,3330,46
+11 (1.2),Buildings,37769.9,2203,45
+11 (1.2),Flowers / ornamental grass,21666.3,1065,45
+11 (1.2),Other elements,18486.6,1016,47
+11 (1.2),Sky,12053.2,685,33
+11 (1.2),Herbaceous plants,9866.7,559,39
+11 (1.2),Landscape seating / recreational facilities,3162.5,175,31
+11 (1.2),Paved surfaces / plazas,1564.0,85,24
+11 (2.),Buildings,388162.7,22163,48
+11 (2.),Herbaceous plants,233414.2,11933,48
+11 (2.),Tall trees,172079.8,9886,47
+11 (2.),Sky,52007.9,2907,39
+11 (2.),Mountains,28128.9,1649,42
+11 (2.),Roads,16499.4,868,45
+11 (2.),Landscape walls,12725.1,741,34
+11 (2.),Parking lots / vehicles,849.2,51,14
+11 (2.),Landscape seating / recreational facilities,684.0,39,17
+11 (2.),Shrubs,498.8,30,7
+12 (1.2),Buildings,241977.0,13811,48
+12 (1.2),Tall trees,226720.2,12778,48
+12 (1.2),Flowers / ornamental grass,126290.5,6490,48
+12 (1.2),Herbaceous plants,114306.8,6131,48
+12 (1.2),Other elements,90768.7,5125,45
+12 (1.2),Sky,58614.799999999996,3313,40
+12 (1.2),Landscape seating / recreational facilities,33323.2,1831,48
+12 (1.2),Roads,18931.6,1079,43
+12 (1.2),Paved surfaces / plazas,7950.5,448,34
+12 (1.2),Landscape walls,2728.5,161,23
+12 (2.2),Tall trees,307844.3,17300,48
+12 (2.2),Buildings,130967.2,7480,47
+12 (2.2),Other elements,127533.09999999999,6993,47
+12 (2.2),Herbaceous plants,112527.9,5999,48
+12 (2.2),Mountains,70173.7,4076,46
+12 (2.2),Flowers / ornamental grass,65033.8,3621,48
+12 (2.2),Roads,51836.6,2357,46
+12 (2.2),Sky,37409.4,2166,23
+12 (2.2),Landscape seating / recreational facilities,12726.3,647,46
+12 (2.2),Landscape walls,1767.8,102,9
+13_1,Economic crops,477462.7,26226,48
+13_1,Tall trees,137528.6,7886,48
+13_1,Buildings,117515.5,6794,47
+13_1,Herbaceous plants,106053.6,5722,48
+13_1,Flower beds / trellises,21419.6,1187,45
+13_1,Sky,19716.9,1136,26
+13_1,Paved surfaces / plazas,19621.4,1011,47
+13_1,Mountains,10733.0,641,25
+13_1,Shrubs,4433.4,251,27
+13_1,Other elements,3710.2,210,30
+13_1,Landscape seating / recreational facilities,516.7,23,7
+13_2,Tall trees,527066.6,30136,48
+13_2,Herbaceous plants,142742.3,7490,48
+13_2,Roads,71435.0,3742,48
+13_2,Buildings,58625.3,3352,40
+13_2,Flowers / ornamental grass,56432.0,3150,48
+13_2,Paved surfaces / plazas,20501.9,1185,46
+13_2,Flower beds / trellises,16181.0,931,41
+13_2,Shrubs,13476.5,783,40
+13_2,Other elements,11709.8,665,39
+13_2,Sky,7204.1,393,16
+14 (1),Tall trees,319913.6,17900,48
+14 (1),Shrubs,204213.0,10572,48
+14 (1),Herbaceous plants,183382.7,10317,48
+14 (1),Buildings,106087.8,6073,45
+14 (1),Roads,73890.6,3772,48
+14 (1),Sky,12221.9,693,28
+14 (1),Other elements,3744.4,215,25
+14 (1),Mountains,621.1,35,17
+14 (2),Tall trees,357859.8,20151,48
+14 (2),Herbaceous plants,244514.9,13374,48
+14 (2),Shrubs,135128.3,7351,48
+14 (2),Roads,127685.6,6431,48
+14 (2),Sky,28342.2,1485,42
+15_1,Buildings,445712.6,25300,48
+15_1,Tall trees,156703.8,8842,48
+15_1,Shrubs,121401.9,6743,47
+15_1,Artificial water features,59571.3,3230,45
+15_1,Paved surfaces / plazas,50164.5,2195,47
+15_1,Sky,44865.1,2515,38
+15_1,Landscape stones,16828.2,976,33
+15_1,Other elements,15518.6,888,34
+15_2,Tall trees,470772.4,26398,48
+15_2,Buildings,264055.0,14643,48
+15_2,Paved surfaces / plazas,55297.0,2362,45
+15_2,Shrubs,50042.0,2657,45
+15_2,Flowers / ornamental grass,29073.8,1562,44
+15_2,Landscape seating / recreational facilities,10833.5,487,37
+15_2,Other elements,8434.2,467,41
+15_2,Herbaceous plants,7310.9,269,34
+15_2,Sky,830.5,35,5
+16_1,Tall trees,342550.7,19371,47
+16_1,Shrubs,149713.2,8114,48
+16_1,Roads,149271.5,7642,48
+16_1,Buildings,101566.1,5788,45
+16_1,Sky,37117.7,2131,43
+16_1,Parking lots / vehicles,28748.0,1557,44
+16_1,Landscape walls,13850.3,774,33
+16_1,Other elements,13103.3,728,22
+16_1,Flower beds / trellises,6373.299999999999,339,40
+16_1,Sculptures / landmarks,2130.9,106,23
+16_1,Mountains,84.3,5,3
+16_2,Tall trees,461662.1,26304,48
+16_2,Roads,128351.7,6972,46
+16_2,Shrubs,125227.7,6629,46
+16_2,Other elements,34381.1,1994,43
+16_2,Buildings,29508.5,1685,43
+16_2,Sky,22534.4,1275,34
+16_2,Herbaceous plants,16645.0,909,34
+16_2,Mountains,2514.0,151,28
+16_2,Landscape stones,1261.4,76,15
+16_2,Parking lots / vehicles,865.1999999999999,34,14
+17_1,Tall trees,341564.2,19226,48
+17_1,Herbaceous plants,288641.5,14727,48
+17_1,Roads,68509.0,3833,48
+17_1,Sky,63800.1,3432,43
+17_1,Shrubs,34349.9,1953,47
+17_1,Buildings,31687.2,1839,47
+17_1,Mountains,19863.1,1140,42
+17_1,Landscape stones,3949.9,202,38
+17_1,Other elements,1682.2,93,28
+17_2,Tall trees,449459.0,25428,47
+17_2,Shrubs,243486.8,13224,46
+17_2,Roads,67656.8,3237,45
+17_2,Herbaceous plants,47875.0,2230,45
+17_2,Paved surfaces / plazas,13441.4,720,45
+17_2,Flower beds / trellises,12555.1,643,42
+17_2,Sky,9388.3,500,25
+17_2,Buildings,5606.6,326,33
+17_2,Landscape stones,885.9000000000001,46,17
+17_2,Other elements,183.7,11,3
+18_1,Tall trees,297211.9,16789,48
+18_1,Pavilions / corridors,233864.9,13218,48
+18_1,Buildings,171209.2,9521,48
+18_1,Paved surfaces / plazas,97314.8,4849,48
+18_1,Herbaceous plants,40055.1,2115,43
+18_1,Shrubs,37029.5,2023,48
+18_1,Sky,4862.9,273,11
+18_1,Flower beds / trellises,2211.1,122,12
+18_1,Landscape stones,1346.9,80,16
+18_1,Other elements,765.0999999999999,46,13
+18_1,Flowers / ornamental grass,166.7,8,2
+18_2,Tall trees,493082.0,27979,48
+18_2,Flowers / ornamental grass,97139.3,5129,48
+18_2,Roads,88867.6,4476,47
+18_2,Buildings,74382.6,4287,48
+18_2,Pavilions / corridors,66454.1,3877,48
+18_2,Shrubs,40275.3,2212,47
+18_2,Sky,19873.4,1054,36
+18_2,Herbaceous plants,18783.5,1035,42
+18_2,Paved surfaces / plazas,6837.700000000001,396,30
+18_2,Landscape seating / recreational facilities,6242.1,363,25
+18_2,Other elements,2181.9,129,20
+19_1,Tall trees,415095.7,23528,48
+19_1,Herbaceous plants,233258.5,11661,48
+19_1,Sky,151503.1,8537,48
+19_1,Buildings,76200.7,4261,48
+19_1,Shrubs,39359.9,2194,46
+19_1,Mountains,1612.6,97,18
+19_2,Tall trees,403895.9,23058,48
+19_2,Herbaceous plants,232787.6,11466,48
+19_2,Sculptures / landmarks,96232.9,5500,48
+19_2,Mountains,61420.4,3420,47
+19_2,Sky,57136.7,3133,41
+19_2,Shrubs,27415.8,1544,46
+19_2,Water bodies,13676.7,788,43
+19_2,Buildings,4597.6,255,29
+19_2,Landscape seating / recreational facilities,3663.6,197,34
+19_2,Paved surfaces / plazas,999.9,60,8
+19_2,Other elements,99.2,6,5
+2 (2.2),Landscape seating / recreational facilities,236046.8,13695,47
+2 (2.2),Herbaceous plants,224556.4,11389,48
+2 (2.2),Buildings,141815.4,8095,48
+2 (2.2),Tall trees,133971.7,7686,48
+2 (2.2),Mountains,103867.1,5972,47
+2 (2.2),Sky,46711.200000000004,2652,35
+2 (2.2),Shrubs,4011.1,207,28
+20_1,Buildings,271253.2,15643,48
+20_1,Water bodies,261432.1,14214,47
+20_1,Other elements,176302.4,9345,47
+20_1,Sky,80306.9,4629,44
+20_1,Tall trees,56310.0,3102,46
+20_1,Herbaceous plants,24744.4,1420,46
+20_1,Aquatic plants,22752.0,1177,46
+20_1,Shrubs,11126.8,631,43
+20_1,Parking lots / vehicles,2997.0,168,34
+20_1,Flower beds / trellises,2931.2999999999997,170,34
+20_1,Paved surfaces / plazas,2794.9,138,17
+20_1,Pavilions / corridors,834.3,50,16
+20_2,Water bodies,350768.4,18529,48
+20_2,Tall trees,241798.0,13756,48
+20_2,Mountains,98364.6,5659,46
+20_2,Sky,51218.6,2933,37
+20_2,Paved surfaces / plazas,50831.2,2650,47
+20_2,Shrubs,38653.9,2192,44
+20_2,Herbaceous plants,33050.2,1892,39
+20_2,Buildings,31856.7,1813,45
+20_2,Other elements,20652.7,1140,45
+20_2,Aquatic plants,4551.1,238,32
+20_2,Landscape bridges,3130.7,177,31
+20_2,Flower beds / trellises,2146.3,118,22
+20_2,Landscape seating / recreational facilities,531.6,22,8
+21_1,Tall trees,310519.5,17910,48
+21_1,Water bodies,175831.0,9872,48
+21_1,Herbaceous plants,149320.9,7955,47
+21_1,Other elements,100679.1,5515,47
+21_1,Buildings,79557.6,4605,45
+21_1,Sky,57968.7,3314,44
+21_1,Flower beds / trellises,21411.6,1213,46
+21_1,Shrubs,18357.3,1018,44
+21_1,Landscape bridges,1899.1000000000001,113,28
+21_1,Roads,768.1,36,21
+21_1,Mountains,432.29999999999995,26,11
+21_2,Tall trees,508906.7,29129,47
+21_2,Herbaceous plants,89849.1,4744,47
+21_2,Other elements,89073.2,4683,47
+21_2,Water bodies,87912.9,4629,47
+21_2,Sky,69177.6,3853,47
+21_2,Buildings,52919.3,2967,46
+21_2,Flower beds / trellises,8732.8,476,45
+21_2,Shrubs,5990.6,332,32
+21_2,Aquatic plants,3808.0,207,29
+21_2,Landscape walls,1667.6,89,17
+21_2,Paved surfaces / plazas,696.3,42,15
+21_2,Landscape bridges,550.1,33,11
+22_1,Buildings,518707.1,29811,48
+22_1,Parking lots / vehicles,149697.7,8240,47
+22_1,Paved surfaces / plazas,138958.9,6231,47
+22_1,Tall trees,31399.6,1706,44
+22_1,Sky,29001.8,1666,35
+22_1,Sculptures / landmarks,27215.1,1558,41
+22_1,Shrubs,20376.2,1158,45
+22_1,Other elements,10806.2,626,43
+22_1,Landscape stones,3079.1,183,20
+22_1,Mountains,2842.6,161,11
+22_2,Buildings,400754.0,22926,48
+22_2,Artificial water features,171511.9,9393,48
+22_2,Paved surfaces / plazas,95501.5,4412,45
+22_2,Sculptures / landmarks,86818.1,5012,48
+22_2,Parking lots / vehicles,67313.8,3782,48
+22_2,Tall trees,48309.7,2740,46
+22_2,Sky,35151.5,1998,38
+22_2,Shrubs,7998.7,465,25
+22_2,Mountains,2595.9,155,13
+22_2,Landscape stones,2193.7999999999997,132,27
+22_2,Flower beds / trellises,231.89999999999998,14,6
+23_1,Tall trees,329970.8,18657,48
+23_1,Aquatic plants,171483.1,9712,48
+23_1,Roads,163150.8,8491,48
+23_1,Herbaceous plants,59190.5,3054,48
+23_1,Sky,57330.6,3318,39
+23_1,Paved surfaces / plazas,47434.1,2575,47
+23_1,Water bodies,41043.1,2351,47
+23_1,Shrubs,31932.9,1774,47
+23_1,Mountains,16057.0,913,43
+23_1,Other elements,4712.3,280,27
+23_1,Buildings,115.19999999999999,7,3
+23_2,Roads,231210.4,12065,48
+23_2,Tall trees,194402.7,11067,48
+23_2,Shrubs,119931.7,6577,48
+23_2,Buildings,95126.5,5518,47
+23_2,Sky,85724.5,4890,41
+23_2,Water bodies,85640.6,4850,48
+23_2,Flowers / ornamental grass,43049.2,2236,43
+23_2,Aquatic plants,41635.3,2340,45
+23_2,Herbaceous plants,14182.7,787,46
+23_2,Landscape stones,3230.0,171,29
+23_2,Other elements,1277.6,76,22
+24_1,Economic crops,415156.5,22480,48
+24_1,Tall trees,265100.6,14725,48
+24_1,Flowers / ornamental grass,64348.1,3606,44
+24_1,Roads,52565.3,2725,47
+24_1,Other elements,39008.4,2086,46
+24_1,Shrubs,26202.9,1472,44
+24_1,Sky,20744.3,1130,41
+24_1,Flower beds / trellises,14386.3,822,29
+24_1,Herbaceous plants,5757.7,339,26
+24_2,Flowers / ornamental grass,324132.0,18201,48
+24_2,Economic crops,184574.5,10237,48
+24_2,Tall trees,152592.8,8673,48
+24_2,Buildings,106747.0,6108,48
+24_2,Paved surfaces / plazas,96717.6,4548,48
+24_2,Sky,21697.5,1067,31
+24_2,Flower beds / trellises,11545.2,624,41
+24_2,Herbaceous plants,8360.5,448,40
+24_2,Landscape walls,5599.9,336,32
+24_2,Shrubs,3144.3,163,24
+24_2,Other elements,383.3,23,6
+24_2,Mountains,16.3,1,1
+2_1,Herbaceous plants,386692.5,20176,48
+2_1,Tall trees,275575.2,15916,47
+2_1,Sky,67398.5,3779,38
+2_1,Landscape seating / recreational facilities,58288.3,3348,43
+2_1,Buildings,43455.0,2553,39
+2_1,Mountains,41447.0,2310,42
+2_1,Shrubs,5411.7,313,33
+2_1,Other elements,1246.5,64,9
+2_1,Sculptures / landmarks,1114.6,67,16
+3 (1.2),Tall trees,312224.6,17588,48
+3 (1.2),Paved surfaces / plazas,287242.5,15259,48
+3 (1.2),Buildings,112821.6,6450,47
+3 (1.2),Water bodies,78247.3,4502,46
+3 (1.2),Landscape seating / recreational facilities,39553.5,2186,46
+3 (1.2),Shrubs,29901.0,1725,47
+3 (1.2),Flower beds / trellises,16521.2,966,44
+3 (1.2),Sculptures / landmarks,11345.7,633,31
+3 (1.2),Sky,8254.2,456,21
+3 (1.2),Mountains,199.9,12,2
+3 (1.2),Other elements,181.79999999999998,10,7
+3_1,Tall trees,330572.9,18904,48
+3_1,Paved surfaces / plazas,252721.0,13206,48
+3_1,Buildings,152801.7,8745,48
+3_1,Sculptures / landmarks,67514.4,3845,43
+3_1,Artificial water features,47343.2,2661,48
+3_1,Landscape seating / recreational facilities,25121.2,1413,44
+3_1,Sky,19281.2,1088,31
+3_1,Shrubs,13922.9,804,40
+3_1,Mountains,4572.5,244,22
+3_1,Pavilions / corridors,1815.0,108,29
+3_1,Herbaceous plants,1532.0,92,16
+3_1,Other elements,1168.2,70,19
+4_1,Tall trees,394083.2,22444,48
+4_1,Herbaceous plants,162133.0,8713,48
+4_1,Roads,161963.5,8594,48
+4_1,Aquatic plants,68187.4,3806,47
+4_1,Flowers / ornamental grass,46240.3,2662,46
+4_1,Shrubs,27005.3,1519,47
+4_1,Paved surfaces / plazas,19672.7,1159,45
+4_1,Sky,15786.1,860,29
+4_1,Buildings,11852.0,689,34
+4_1,Other elements,6667.7,361,39
+4_1,Landscape seating / recreational facilities,6392.9,373,32
+4_1,Landscape stones,166.5,2,2
+4_2,Tall trees,479850.6,27448,48
+4_2,Flowers / ornamental grass,121480.3,6546,48
+4_2,Paved surfaces / plazas,110086.0,5765,48
+4_2,Herbaceous plants,91559.9,5105,48
+4_2,Aquatic plants,76544.3,4267,48
+4_2,Shrubs,27206.6,1526,40
+4_2,Landscape seating / recreational facilities,9715.6,555,37
+4_2,Roads,6415.2,366,38
+4_2,Buildings,3456.1,197,18
+4_2,Sky,2496.8,134,13
+4_2,Other elements,1139.6,55,21
+5 (1.2),Tall trees,334584.1,18759,48
+5 (1.2),Roads,151985.5,7812,48
+5 (1.2),Other elements,108360.6,6158,48
+5 (1.2),Shrubs,86473.6,4592,47
+5 (1.2),Herbaceous plants,69792.8,3669,45
+5 (1.2),Sky,37391.799999999996,1580,34
+5 (1.2),Landscape walls,29910.4,1635,40
+5 (1.2),Flowers / ornamental grass,25655.4,1485,44
+5 (1.2),Buildings,11511.4,634,42
+5 (1.2),Mountains,7058.6,410,36
+5 (1.2),Aquatic plants,3865.3,214,19
+5 (1.2),Landscape seating / recreational facilities,184.3,11,8
+5 (2.2),Tall trees,430657.1,24497,48
+5 (2.2),Roads,153264.2,7716,48
+5 (2.2),Shrubs,84173.8,4446,48
+5 (2.2),Herbaceous plants,67471.0,3622,48
+5 (2.2),Sky,42179.6,2317,43
+5 (2.2),Buildings,22515.2,1302,38
+5 (2.2),Flowers / ornamental grass,16391.2,946,39
+5 (2.2),Landscape walls,13584.2,784,36
+5 (2.2),Other elements,7358.6,398,40
+5 (2.2),Landscape seating / recreational facilities,6685.400000000001,378,33
+5 (2.2),Paved surfaces / plazas,1805.8,106,26
+5 (2.2),Parking lots / vehicles,632.0,38,14
+5 (2.2),Aquatic plants,17.0,1,1
+6_1,Flowers / ornamental grass,226982.1,12547,48
+6_1,Tall trees,156134.4,8991,48
+6_1,Shrubs,114136.4,6434,47
+6_1,Herbaceous plants,82780.0,3772,46
+6_1,Buildings,72613.8,4100,47
+6_1,Mountains,62711.3,3629,42
+6_1,Sculptures / landmarks,57977.2,3263,47
+6_1,Landscape seating / recreational facilities,55114.2,3080,48
+6_1,Sky,48079.2,2765,44
+6_1,Paved surfaces / plazas,32199.0,1765,46
+6_2,Shrubs,266040.3,14715,48
+6_2,Tall trees,181181.8,10123,48
+6_2,Flower beds / trellises,141033.5,8115,48
+6_2,Roads,75379.2,3507,48
+6_2,Buildings,70847.2,4078,48
+6_2,Sky,57374.299999999996,3288,36
+6_2,Mountains,38347.2,2166,41
+6_2,Paved surfaces / plazas,35601.2,1886,45
+6_2,Herbaceous plants,30997.8,1592,47
+6_2,Flowers / ornamental grass,20109.5,1147,45
+6_2,Landscape stones,1532.1000000000001,84,18
+6_2,Sculptures / landmarks,1082.8,54,22
+6_2,Other elements,880.8,53,15
+6_2,Landscape walls,365.4,13,8
+7_1,Water bodies,323255.0,17165,48
+7_1,Tall trees,303907.7,17409,48
+7_1,Buildings,103455.4,5955,46
+7_1,Herbaceous plants,60230.8,3001,47
+7_1,Sky,45350.0,2563,38
+7_1,Shrubs,21450.2,1209,43
+7_1,Landscape bridges,12895.6,745,42
+7_1,Paved surfaces / plazas,12096.8,681,40
+7_1,Sculptures / landmarks,11058.5,636,27
+7_1,Aquatic plants,7419.599999999999,405,38
+7_1,Landscape seating / recreational facilities,5021.3,281,33
+7_1,Mountains,3774.5,215,26
+7_1,Flowers / ornamental grass,3748.3,217,27
+7_1,Roads,3258.9,186,39
+7_1,Landscape stones,2612.6,126,27
+7_1,Other elements,565.2,33,15
+7_1,Parking lots / vehicles,348.9,20,10
+7_2,Water bodies,218016.3,11928,48
+7_2,Tall trees,207972.6,11645,48
+7_2,Aquatic plants,190967.6,10669,48
+7_2,Buildings,90757.59999999999,5190,48
+7_2,Mountains,77127.4,4270,44
+7_2,Herbaceous plants,51424.9,2300,48
+7_2,Paved surfaces / plazas,32677.0,1877,48
+7_2,Sky,31196.2,1637,34
+7_2,Sculptures / landmarks,11212.4,663,36
+7_2,Landscape stones,8330.6,400,26
+7_2,Landscape bridges,7135.8,396,36
+7_2,Pavilions / corridors,1132.0,63,14
+8 (1.4),Tall trees,329355.1,18862,48
+8 (1.4),Herbaceous plants,163217.9,8926,48
+8 (1.4),Aquatic plants,148882.0,8245,48
+8 (1.4),Flowers / ornamental grass,72434.0,3591,45
+8 (1.4),Water bodies,71512.5,3852,48
+8 (1.4),Landscape bridges,48099.6,2787,46
+8 (1.4),Sky,32228.4,1818,34
+8 (1.4),Paved surfaces / plazas,11896.9,676,34
+8 (1.4),Buildings,10748.2,623,33
+8 (1.4),Roads,8365.2,471,40
+8 (1.4),Shrubs,8098.099999999999,473,42
+8 (1.4),Landscape stones,3666.4,190,32
+8 (1.4),Other elements,1916.0,114,22
+8_1,Tall trees,368281.60000000003,21095,48
+8_1,Aquatic plants,168784.6,9383,48
+8_1,Herbaceous plants,156527.7,8608,48
+8_1,Water bodies,95968.5,5268,48
+8_1,Shrubs,57842.6,2605,46
+8_1,Flowers / ornamental grass,24992.5,1348,46
+8_1,Landscape bridges,9525.6,561,37
+8_1,Landscape stones,9486.5,524,43
+8_1,Buildings,8486.2,489,35
+8_1,Mountains,7602.2,438,29
+8_1,Roads,6741.099999999999,361,42
+8_1,Sky,6356.9,367,31
+8_1,Paved surfaces / plazas,1119.0,67,23
+9_1,Tall trees,232149.7,13078,48
+9_1,Aquatic plants,217282.5,12057,48
+9_1,Water bodies,182694.4,10032,48
+9_1,Herbaceous plants,70664.4,3988,48
+9_1,Flowers / ornamental grass,62885.0,3554,48
+9_1,Sky,45758.0,2549,39
+9_1,Mountains,41083.9,2315,39
+9_1,Roads,21152.0,1222,46
+9_1,Buildings,16933.6,959,31
+9_1,Landscape seating / recreational facilities,3663.8,199,32
+9_1,Shrubs,766.7,46,16
+9_2,Tall trees,380331.1,21807,48
+9_2,Herbaceous plants,177393.5,9473,48
+9_2,Aquatic plants,85452.2,4470,47
+9_2,Water bodies,81734.7,4652,47
+9_2,Flowers / ornamental grass,80016.5,4518,46
+9_2,Roads,38073.7,2033,47
+9_2,Sky,21768.3,1282,22
+9_2,Mountains,19654.9,1144,33
+9_2,Landscape seating / recreational facilities,10259.5,601,37
+9_2,Landscape walls,2303.4,127,14
+9_2,Buildings,1945.4,106,20
+9_2,Shrubs,1314.8,68,15
+9_2,Parking lots / vehicles,1179.2,71,17
+9_2,Flower beds / trellises,216.70000000000002,13,7

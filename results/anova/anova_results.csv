@@ -1,0 +1,23 @@
+﻿AOI Element,Participant F-statistic,Participant p-value,Participant significance,Site F-statistic,Site p-value,Site significance,Dominant factor
+Aquatic plants,0.625,0.97858,ns,139.244,,***,Sites
+Artificial water features,0.653,0.96733,ns,64.329,,***,Sites
+Buildings,1.691,0.00245,**,120.745,,***,Sites
+Economic crops,0.172,1.0,ns,346.912,,***,Sites
+Flower beds / trellises,0.509,0.99783,ns,74.689,,***,Sites
+Flowers / ornamental grass,0.665,0.96147,ns,103.04,,***,Sites
+Herbaceous plants,3.786,0.0,***,58.528,,***,Sites
+Landscape bridges,0.366,0.99998,ns,65.038,,***,Sites
+Landscape seating / recreational facilities,0.87,0.72089,ns,74.084,,***,Sites
+Landscape stones,0.637,0.97426,ns,46.983,,***,Sites
+Landscape walls,0.387,0.99995,ns,94.489,,***,Sites
+Mountains,2.626,0.0,***,32.672,0.0,***,Sites
+Other elements,0.822,0.80095,ns,58.381,,***,Sites
+Parking lots / vehicles,0.473,0.99913,ns,89.828,,***,Sites
+Paved surfaces / plazas,3.149,0.0,***,55.001,,***,Sites
+Pavilions / corridors,0.32,1.0,ns,167.392,,***,Sites
+Roads,3.783,0.0,***,47.211,,***,Sites
+Sculptures / landmarks,1.028,0.42131,ns,55.376,,***,Sites
+Shrubs,1.558,0.00931,**,65.065,,***,Sites
+Sky,22.221,0.0,***,7.42,0.0,***,Participants
+Tall trees,8.33,0.0,***,40.067,0.0,***,Sites
+Water bodies,1.045,0.38944,ns,103.846,,***,Sites
